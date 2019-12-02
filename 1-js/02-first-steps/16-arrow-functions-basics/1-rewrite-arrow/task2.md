@@ -13,4 +13,4 @@ let arrow1 = () => {
 alert(arrow())
 alert(arrow1())
 ```
-*will arrow & arrow1 give the similiar output ?*
+*will arrow & arrow1 give the similiar output ?*  
